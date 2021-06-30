@@ -123,6 +123,7 @@ public class EarthquakeAdapter extends ArrayAdapter<Earthquake> {
         switch (magnitudeFloor)
         {
             case 0:
+                
             case 1:
                 magnitudeColorResourceId = R.color.magnitude1;
                 break;
